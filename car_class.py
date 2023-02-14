@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from sklearn.model_selection import KFold
+from sklearn.model_selection import KFold, train_test_split
 from sklearn.feature_selection import f_classif
 from sklearn.neighbors import KNeighborsClassifier
 
@@ -39,7 +39,12 @@ def car_classify(filename):
 
     labeled_price = [item >= 14500 for item in data["price"].to_numpy()]
     data["labeled_price"] = labeled_price
-    print(data.head())
+
+    xdata = data.drop(["price", "labeled_price"], axis=1)
+    ydata = data["labeled_price"]
+
+    xtrain, xtest, ytrain, ytest = train_test_split(xdata, ydata, random_state=0, test_size=0.3)
+    print(ydata.head())
 
 
 car_classify("pred_comp_3_and_4_training_small_W2023_v1.csv")
