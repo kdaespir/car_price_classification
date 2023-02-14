@@ -47,6 +47,15 @@ def data_process(filename):
     data["labeled_price"] = labeled_price
 
     return data
+
+def classifier(xdata, ydata, neighbors):
+
+    xtrain, xtest, ytrain, ytest = train_test_split(xdata, ydata, random_state=0, test_size=0.3)
+
+    model = KNeighborsClassifier(n_neighbors=neighbors)
+    model.fit(xtrain, ytrain)
+
+    
 def car_classify(filename):
     
     data = data_process(filename)
@@ -57,7 +66,8 @@ def car_classify(filename):
     print(f"Higher is better \nYear: {features[0]}\nMileage: {features[1]}\nCity: {features[2]}\nState: {features[3]}\
     \nMake: {features[4]}\nModel: {features[5]}")
 
-    xtrain, xtest, ytrain, ytest = train_test_split(xdata, ydata, random_state=0, test_size=0.3)
+    
+
 
     
     print(xdata.head())
