@@ -134,7 +134,7 @@ def classifier_metrics(filename):
     # print(accuracies[index] == np.max(accuracies))
     return [index, accuracies]
 
-def car_classify(train_filename, test_filename, outfile, acc_file):
+def car_classify(train_filename, test_filename, train_acc_file, test_acc_file):
     
     data = data_process(train_filename)
     xdata_train = data.drop(["price", "labeled_price"], axis=1)
@@ -151,7 +151,8 @@ def car_classify(train_filename, test_filename, outfile, acc_file):
             sig_feat = select_classifier(sig_xdata, ydata_train, item, outfile="training_error_rate_by_k.txt")
             print(sig_feat)
 
-    num_neighbors = classifier_metrics(acc_file)
+    train_num_neighbors = classifier_metrics(train_acc_file)
+    test_error_neighbours = classifier_metrics(test_acc_file)
 
     if test_filename != "":
 
@@ -159,19 +160,25 @@ def car_classify(train_filename, test_filename, outfile, acc_file):
         xdata_train = xdata_train.drop(["city", "state"], axis=1)
         xdata_test = data_test.drop(["price", "labeled_price", "city", "state"], axis=1)
         ydata_test = data_test["labeled_price"]
-        car_pred = price_predictor(xdata_train, xdata_test, ydata_train, ydata_test, neighbors=num_neighbors[0], outfile="Car_class_output.txt")
-
+        car_pred = price_predictor(xdata_train, xdata_test, ydata_train, ydata_test, neighbors=train_num_neighbors[0], outfile="test_error_rate_by_k.txt")
         print(f"The accuracy of the model is {car_pred}")
-    plt.scatter(x=list(range(1,101)), y=num_neighbors[1])
+
+        if input("Q2? ") == "yes":
+
+            for item in range(1,101):
+                data_test = data_process(test_filename)
+                xdata_train = xdata_train.drop(["city", "state"], axis=1)
+                xdata_test = data_test.drop(["price", "labeled_price", "city", "state"], axis=1)
+                ydata_test = data_test["labeled_price"]
+                car_pred = price_predictor(xdata_train, xdata_test, ydata_train, ydata_test, neighbors=train_num_neighbors[0], outfile="test_error_rate_by_k.txt")
+
+    
+    
+    plt.scatter(x=list(range(1,101)), y=train_num_neighbors[1])
+    # plt.scatter(x=list(range(1,101)), y=test_error_neighbours[1])
     plt.xlabel("# of Neighbors")
     plt.ylabel("Accuracy")
     plt.title("")
     plt.show()
 
-    
-
-print(type(classifier_metrics("car_class_output_dist_wght_robscale_acc.txt")[0]))
-print(list(range(1,101)))
-# # car_classify("pred_comp_3_and_4_training_large_W2023_v1.csv", 16)
-# for iteration in range(1,101):
-car_classify("pred_comp_3_and_4_training_large_W2023_v1.csv", test_filename="", outfile="",acc_file="car_class_output_dist_wght_robscale_acc.txt")
+car_classify("pred_comp_3_and_4_training_large_W2023_v1.csv", test_filename="",train_acc_file="training_error_rate_by_k.txt", test_acc_file="test_error_rate_by_k.txt")
