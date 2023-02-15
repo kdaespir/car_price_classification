@@ -1,100 +1,100 @@
-cv_scores mean for 1 neighbors: 0.9026466666666666
-cv_scores mean for 2 neighbors: 0.9026466666666668
-cv_scores mean for 3 neighbors: 0.9074866666666667
-cv_scores mean for 4 neighbors: 0.9089600000000001
-cv_scores mean for 5 neighbors: 0.9105666666666666
-cv_scores mean for 6 neighbors: 0.9110733333333332
-cv_scores mean for 7 neighbors: 0.9123133333333333
-cv_scores mean for 8 neighbors: 0.9125266666666667
-cv_scores mean for 9 neighbors: 0.9130733333333334
-cv_scores mean for 10 neighbors: 0.9131066666666667
-cv_scores mean for 11 neighbors: 0.9132466666666665
-cv_scores mean for 12 neighbors: 0.9134266666666665
-cv_scores mean for 13 neighbors: 0.9137333333333333
-cv_scores mean for 14 neighbors: 0.9137599999999999
-cv_scores mean for 15 neighbors: 0.9139000000000002
-cv_scores mean for 16 neighbors: 0.9139333333333333
-cv_scores mean for 17 neighbors: 0.9141466666666667
-cv_scores mean for 18 neighbors: 0.9143266666666667
-cv_scores mean for 19 neighbors: 0.9144266666666667
-cv_scores mean for 20 neighbors: 0.9145266666666668
-cv_scores mean for 21 neighbors: 0.9145733333333335
-cv_scores mean for 22 neighbors: 0.9146599999999999
-cv_scores mean for 23 neighbors: 0.9146466666666667
-cv_scores mean for 24 neighbors: 0.9147066666666668
-cv_scores mean for 25 neighbors: 0.9147000000000001
-cv_scores mean for 26 neighbors: 0.9147333333333332
-cv_scores mean for 27 neighbors: 0.91458
-cv_scores mean for 28 neighbors: 0.9147466666666666
-cv_scores mean for 29 neighbors: 0.9147733333333333
-cv_scores mean for 30 neighbors: 0.91464
-cv_scores mean for 31 neighbors: 0.9145999999999999
-cv_scores mean for 32 neighbors: 0.9146666666666666
-cv_scores mean for 33 neighbors: 0.91456
-cv_scores mean for 34 neighbors: 0.9146133333333333
-cv_scores mean for 35 neighbors: 0.9145266666666666
-cv_scores mean for 36 neighbors: 0.91462
-cv_scores mean for 37 neighbors: 0.9144866666666666
-cv_scores mean for 38 neighbors: 0.91442
-cv_scores mean for 39 neighbors: 0.9144133333333334
-cv_scores mean for 40 neighbors: 0.9143866666666668
-cv_scores mean for 41 neighbors: 0.9143133333333333
-cv_scores mean for 42 neighbors: 0.9144133333333334
-cv_scores mean for 43 neighbors: 0.9142466666666668
-cv_scores mean for 44 neighbors: 0.9141866666666667
-cv_scores mean for 45 neighbors: 0.9142266666666666
-cv_scores mean for 46 neighbors: 0.9142666666666667
-cv_scores mean for 47 neighbors: 0.9142933333333334
-cv_scores mean for 48 neighbors: 0.9141933333333334
-cv_scores mean for 49 neighbors: 0.9140866666666666
-cv_scores mean for 50 neighbors: 0.9139933333333333
-cv_scores mean for 51 neighbors: 0.91396
-cv_scores mean for 52 neighbors: 0.9139733333333332
-cv_scores mean for 53 neighbors: 0.9139333333333333
-cv_scores mean for 54 neighbors: 0.9139533333333333
-cv_scores mean for 55 neighbors: 0.9138333333333334
-cv_scores mean for 56 neighbors: 0.91378
-cv_scores mean for 57 neighbors: 0.9136866666666666
-cv_scores mean for 58 neighbors: 0.9135333333333333
-cv_scores mean for 59 neighbors: 0.9135266666666666
-cv_scores mean for 60 neighbors: 0.9136
-cv_scores mean for 61 neighbors: 0.91354
-cv_scores mean for 62 neighbors: 0.9135199999999999
-cv_scores mean for 63 neighbors: 0.9135066666666667
-cv_scores mean for 64 neighbors: 0.9135066666666667
-cv_scores mean for 65 neighbors: 0.9134266666666667
-cv_scores mean for 66 neighbors: 0.9134399999999999
-cv_scores mean for 67 neighbors: 0.9133466666666668
-cv_scores mean for 68 neighbors: 0.91336
-cv_scores mean for 69 neighbors: 0.9133000000000001
-cv_scores mean for 70 neighbors: 0.9131466666666667
-cv_scores mean for 71 neighbors: 0.91314
-cv_scores mean for 72 neighbors: 0.9130733333333334
-cv_scores mean for 73 neighbors: 0.9129733333333334
-cv_scores mean for 74 neighbors: 0.9129666666666667
-cv_scores mean for 75 neighbors: 0.9128666666666667
-cv_scores mean for 76 neighbors: 0.9129066666666666
-cv_scores mean for 77 neighbors: 0.9128866666666665
-cv_scores mean for 78 neighbors: 0.9128333333333334
-cv_scores mean for 79 neighbors: 0.9127066666666668
-cv_scores mean for 80 neighbors: 0.9126866666666666
-cv_scores mean for 81 neighbors: 0.9126933333333334
-cv_scores mean for 82 neighbors: 0.9125533333333333
-cv_scores mean for 83 neighbors: 0.9124666666666666
-cv_scores mean for 84 neighbors: 0.9124466666666666
-cv_scores mean for 85 neighbors: 0.91238
-cv_scores mean for 86 neighbors: 0.9124266666666667
-cv_scores mean for 87 neighbors: 0.9123933333333334
-cv_scores mean for 88 neighbors: 0.9124066666666668
-cv_scores mean for 89 neighbors: 0.9124066666666668
-cv_scores mean for 90 neighbors: 0.9124066666666666
-cv_scores mean for 91 neighbors: 0.9122600000000001
-cv_scores mean for 92 neighbors: 0.9122266666666666
-cv_scores mean for 93 neighbors: 0.9121333333333335
-cv_scores mean for 94 neighbors: 0.9121466666666667
-cv_scores mean for 95 neighbors: 0.9120266666666665
-cv_scores mean for 96 neighbors: 0.91204
-cv_scores mean for 97 neighbors: 0.9119266666666667
-cv_scores mean for 98 neighbors: 0.9119733333333333
-cv_scores mean for 99 neighbors: 0.9119066666666666
-cv_scores mean for 100 neighbors: 0.9119733333333333
+cv_scores mean for 1 neighbors: 0.9026466666666666. Test accuracy is 0.9037533333333333
+cv_scores mean for 2 neighbors: 0.9026466666666668. Test accuracy is 0.90376
+cv_scores mean for 3 neighbors: 0.9074866666666667. Test accuracy is 0.9092933333333333
+cv_scores mean for 4 neighbors: 0.9089600000000001. Test accuracy is 0.9112266666666666
+cv_scores mean for 5 neighbors: 0.9105666666666666. Test accuracy is 0.91286
+cv_scores mean for 6 neighbors: 0.9110733333333332. Test accuracy is 0.9136933333333334
+cv_scores mean for 7 neighbors: 0.9123133333333333. Test accuracy is 0.91456
+cv_scores mean for 8 neighbors: 0.9125266666666667. Test accuracy is 0.91524
+cv_scores mean for 9 neighbors: 0.9130733333333334. Test accuracy is 0.91566
+cv_scores mean for 10 neighbors: 0.9131066666666667. Test accuracy is 0.9163666666666667
+cv_scores mean for 11 neighbors: 0.9132466666666665. Test accuracy is 0.9163866666666667
+cv_scores mean for 12 neighbors: 0.9134266666666665. Test accuracy is 0.9166866666666666
+cv_scores mean for 13 neighbors: 0.9137333333333333. Test accuracy is 0.9169133333333334
+cv_scores mean for 14 neighbors: 0.9137599999999999. Test accuracy is 0.9171133333333333
+cv_scores mean for 15 neighbors: 0.9139000000000002. Test accuracy is 0.9172733333333334
+cv_scores mean for 16 neighbors: 0.9139333333333333. Test accuracy is 0.9173533333333334
+cv_scores mean for 17 neighbors: 0.9141466666666667. Test accuracy is 0.9175333333333333
+cv_scores mean for 18 neighbors: 0.9143266666666667. Test accuracy is 0.9176133333333333
+cv_scores mean for 19 neighbors: 0.9144266666666667. Test accuracy is 0.91772
+cv_scores mean for 20 neighbors: 0.9145266666666668. Test accuracy is 0.9177933333333333
+cv_scores mean for 21 neighbors: 0.9145733333333335. Test accuracy is 0.91788
+cv_scores mean for 22 neighbors: 0.9146599999999999. Test accuracy is 0.9181333333333334
+cv_scores mean for 23 neighbors: 0.9146466666666667. Test accuracy is 0.9180866666666667
+cv_scores mean for 24 neighbors: 0.9147066666666668. Test accuracy is 0.9181666666666667
+cv_scores mean for 25 neighbors: 0.9147000000000001. Test accuracy is 0.9182
+cv_scores mean for 26 neighbors: 0.9147333333333332. Test accuracy is 0.9182533333333334
+cv_scores mean for 27 neighbors: 0.91458. Test accuracy is 0.9182866666666667
+cv_scores mean for 28 neighbors: 0.9147466666666666. Test accuracy is 0.9183133333333333
+cv_scores mean for 29 neighbors: 0.9147733333333333. Test accuracy is 0.9183666666666667
+cv_scores mean for 30 neighbors: 0.91464. Test accuracy is 0.9184133333333333
+cv_scores mean for 31 neighbors: 0.9145999999999999. Test accuracy is 0.9185
+cv_scores mean for 32 neighbors: 0.9146666666666666. Test accuracy is 0.91854
+cv_scores mean for 33 neighbors: 0.91456. Test accuracy is 0.9185
+cv_scores mean for 34 neighbors: 0.9146133333333333. Test accuracy is 0.9185666666666666
+cv_scores mean for 35 neighbors: 0.9145266666666666. Test accuracy is 0.91858
+cv_scores mean for 36 neighbors: 0.91462. Test accuracy is 0.9186
+cv_scores mean for 37 neighbors: 0.9144866666666666. Test accuracy is 0.9186066666666667
+cv_scores mean for 38 neighbors: 0.91442. Test accuracy is 0.9186066666666667
+cv_scores mean for 39 neighbors: 0.9144133333333334. Test accuracy is 0.9185333333333333
+cv_scores mean for 40 neighbors: 0.9143866666666668. Test accuracy is 0.91864
+cv_scores mean for 41 neighbors: 0.9143133333333333. Test accuracy is 0.91864
+cv_scores mean for 42 neighbors: 0.9144133333333334. Test accuracy is 0.91872
+cv_scores mean for 43 neighbors: 0.9142466666666668. Test accuracy is 0.9187733333333333
+cv_scores mean for 44 neighbors: 0.9141866666666667. Test accuracy is 0.9188466666666667
+cv_scores mean for 45 neighbors: 0.9142266666666666. Test accuracy is 0.9187066666666667
+cv_scores mean for 46 neighbors: 0.9142666666666667. Test accuracy is 0.9188066666666667
+cv_scores mean for 47 neighbors: 0.9142933333333334. Test accuracy is 0.9188733333333333
+cv_scores mean for 48 neighbors: 0.9141933333333334. Test accuracy is 0.9189466666666667
+cv_scores mean for 49 neighbors: 0.9140866666666666. Test accuracy is 0.9189733333333333
+cv_scores mean for 50 neighbors: 0.9139933333333333. Test accuracy is 0.9189333333333334
+cv_scores mean for 51 neighbors: 0.91396. Test accuracy is 0.91888
+cv_scores mean for 52 neighbors: 0.9139733333333332. Test accuracy is 0.9189
+cv_scores mean for 53 neighbors: 0.9139333333333333. Test accuracy is 0.91884
+cv_scores mean for 54 neighbors: 0.9139533333333333. Test accuracy is 0.9188666666666667
+cv_scores mean for 55 neighbors: 0.9138333333333334. Test accuracy is 0.9188266666666667
+cv_scores mean for 56 neighbors: 0.91378. Test accuracy is 0.9188533333333333
+cv_scores mean for 57 neighbors: 0.9136866666666666. Test accuracy is 0.9188466666666667
+cv_scores mean for 58 neighbors: 0.9135333333333333. Test accuracy is 0.9188466666666667
+cv_scores mean for 59 neighbors: 0.9135266666666666. Test accuracy is 0.91882
+cv_scores mean for 60 neighbors: 0.9136. Test accuracy is 0.9188466666666667
+cv_scores mean for 61 neighbors: 0.91354. Test accuracy is 0.9188866666666666
+cv_scores mean for 62 neighbors: 0.9135199999999999. Test accuracy is 0.9188933333333333
+cv_scores mean for 63 neighbors: 0.9135066666666667. Test accuracy is 0.9188933333333333
+cv_scores mean for 64 neighbors: 0.9135066666666667. Test accuracy is 0.9189133333333334
+cv_scores mean for 65 neighbors: 0.9134266666666667. Test accuracy is 0.9189
+cv_scores mean for 66 neighbors: 0.9134399999999999. Test accuracy is 0.9189266666666667
+cv_scores mean for 67 neighbors: 0.9133466666666668. Test accuracy is 0.9189866666666666
+cv_scores mean for 68 neighbors: 0.91336. Test accuracy is 0.9189866666666666
+cv_scores mean for 69 neighbors: 0.9133000000000001. Test accuracy is 0.91892
+cv_scores mean for 70 neighbors: 0.9131466666666667. Test accuracy is 0.91896
+cv_scores mean for 71 neighbors: 0.91314. Test accuracy is 0.9189466666666667
+cv_scores mean for 72 neighbors: 0.9130733333333334. Test accuracy is 0.91896
+cv_scores mean for 73 neighbors: 0.9129733333333334. Test accuracy is 0.9189733333333333
+cv_scores mean for 74 neighbors: 0.9129666666666667. Test accuracy is 0.9188866666666666
+cv_scores mean for 75 neighbors: 0.9128666666666667. Test accuracy is 0.9189733333333333
+cv_scores mean for 76 neighbors: 0.9129066666666666. Test accuracy is 0.9189266666666667
+cv_scores mean for 77 neighbors: 0.9128866666666665. Test accuracy is 0.9189133333333334
+cv_scores mean for 78 neighbors: 0.9128333333333334. Test accuracy is 0.91886
+cv_scores mean for 79 neighbors: 0.9127066666666668. Test accuracy is 0.9189
+cv_scores mean for 80 neighbors: 0.9126866666666666. Test accuracy is 0.9188066666666667
+cv_scores mean for 81 neighbors: 0.9126933333333334. Test accuracy is 0.91884
+cv_scores mean for 82 neighbors: 0.9125533333333333. Test accuracy is 0.9188
+cv_scores mean for 83 neighbors: 0.9124666666666666. Test accuracy is 0.9188133333333334
+cv_scores mean for 84 neighbors: 0.9124466666666666. Test accuracy is 0.91878
+cv_scores mean for 85 neighbors: 0.91238. Test accuracy is 0.9187533333333333
+cv_scores mean for 86 neighbors: 0.9124266666666667. Test accuracy is 0.91878
+cv_scores mean for 87 neighbors: 0.9123933333333334. Test accuracy is 0.9187333333333333
+cv_scores mean for 88 neighbors: 0.9124066666666668. Test accuracy is 0.9187066666666667
+cv_scores mean for 89 neighbors: 0.9124066666666668. Test accuracy is 0.91876
+cv_scores mean for 90 neighbors: 0.9124066666666666. Test accuracy is 0.9186333333333333
+cv_scores mean for 91 neighbors: 0.9122600000000001. Test accuracy is 0.91862
+cv_scores mean for 92 neighbors: 0.9122266666666666. Test accuracy is 0.9186
+cv_scores mean for 93 neighbors: 0.9121333333333335. Test accuracy is 0.9186
+cv_scores mean for 94 neighbors: 0.9121466666666667. Test accuracy is 0.9185733333333334
+cv_scores mean for 95 neighbors: 0.9120266666666665. Test accuracy is 0.9185733333333334
+cv_scores mean for 96 neighbors: 0.91204. Test accuracy is 0.9185
+cv_scores mean for 97 neighbors: 0.9119266666666667. Test accuracy is 0.91848
+cv_scores mean for 98 neighbors: 0.9119733333333333. Test accuracy is 0.9184666666666667
+cv_scores mean for 99 neighbors: 0.9119066666666666. Test accuracy is 0.9185466666666666
+cv_scores mean for 100 neighbors: 0.9119733333333333. Test accuracy is 0.9185666666666666
