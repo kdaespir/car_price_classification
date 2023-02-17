@@ -181,4 +181,4 @@ def car_classify(train_filename, test_filename, train_acc_file, test_acc_file):
     plt.title("")
     plt.show()
 
-car_classify("pred_comp_3_and_4_training_large_W2023_v1.csv", test_filename="",train_acc_file="training_error_rate_by_k.txt", test_acc_file="test_error_rate_by_k.txt")
+car_classify("pred_comp_3_and_4_training_large_W2023_v1.csv", test_filename="pred_comp_3_test_data_W2023_v1.csv",train_acc_file="training_error_rate_by_k.txt", test_acc_file="test_error_rate_by_k.txt")
